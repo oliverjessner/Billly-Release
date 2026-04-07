@@ -1,4 +1,4 @@
-# Billly-Release
+# Billly-Release 🧮
 
 Bookkeeping that runs itself.
 
