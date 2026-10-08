@@ -1,3 +1,7 @@
+# 0.4.0
+
+- moving to https://github.com/oliverjessner/oj-designsystem
+
 # 0.3.0
 
 - sortable tables
